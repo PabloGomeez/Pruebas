@@ -1,3 +1,4 @@
 integrante 
 nombre: juan pablo gomez 
 correo: juanpablogv99@gmail.com
+documento: 1152469039
